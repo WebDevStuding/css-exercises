@@ -1,0 +1,12 @@
+div{
+    color: black;
+    padding: 20px;
+    border:solid 3px darkblue;
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    background-color:azure;
+    font-size: large;
+}

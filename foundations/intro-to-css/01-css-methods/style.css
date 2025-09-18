@@ -1,5 +1,5 @@
 div{
-    color: black;
+    color: white;
     padding: 20px;
     border:solid 3px darkblue;
     border-radius: 3px;
@@ -7,6 +7,7 @@ div{
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 10px;
-    background-color:azure;
-    font-size: large;
+    background-color:red;
+    font-size: 32px;
+    font-weight: bold;
 }
